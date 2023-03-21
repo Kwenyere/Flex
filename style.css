@@ -2,10 +2,12 @@
     margin: 0;
     padding: 0;
 }
+
 body{
     background-color: whitesmoke;
     font-family: 'Oxanium', cursive;
 }
+
 .container{
     display: flex;
     flex-direction: row;
@@ -13,7 +15,6 @@ body{
     width: 60vw;
     margin: auto;
     margin-top: 5rem;
-    
 }
 
 .sedan{
@@ -21,24 +22,25 @@ body{
     color: #fff;
     border-top-left-radius: 10px;
     border-bottom-left-radius: 10px;
-    
 }
 
 .SUVS{
     background-color: #0E5E6F;
     color: #fff;
 }
+
 .luxury{
     background-color: #064635;
     color: #fff;
     border-top-right-radius: 10px;
     border-bottom-right-radius: 10px;
 }
+
 .inside-texts{
     margin-left: 2rem;
     margin-right: 1rem;
-    
 }
+
 button{
     margin-top: 3rem;
     width: 8vw;
@@ -46,32 +48,33 @@ button{
     border-radius: 20px;
     border: none;
     cursor: pointer;
-    
 }
 
 button:hover{
     background-color: #000;
-    
 }
+
 .cars{
     margin-top: 2rem;
-    
 }
+
 a{
     text-decoration: none;
     font-weight: 900;
-    
 }
 
 .a1{
     color: #F99417;
 }
+
 .a1:hover{
     color: #fff;
 }
+
 .a2{
     color: #0E5E6F;
 }
+
 .a2:hover{
     color: #fff;
 }
@@ -79,14 +82,16 @@ a{
 .a3{
     color: #064635;
 }
+
 .a3:hover{
     color: #fff;
 }
+
 p{
     margin-top: 3rem;
     line-height: 2;
 }
+
 h2{
     margin-top: 3rem;
-    
 }
